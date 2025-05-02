@@ -1,9 +1,9 @@
-# 🇮🇳 India Carbon Footprint Tracker
+# India Carbon Footprint Tracker
 
 Track and visualize India's carbon footprint data to promote environmental awareness and sustainable living.
 
 You can **fork** this repository to modify and build upon it.
-Please give credit by linking back to [Govarthan30](https://github.com/YuvaneshV12). Thanks!
+Please give credit by linking back to [Yuvanesh V](https://github.com/YuvaneshV12). Thanks!
 
 ---
 
