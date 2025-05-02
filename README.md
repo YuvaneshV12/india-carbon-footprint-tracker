@@ -1,73 +1,77 @@
-# Welcome to your Lovable project
+# 🇮🇳 India Carbon Footprint Tracker
 
-## Project info
+Track and visualize India's carbon footprint data to promote environmental awareness and sustainable living.
 
-**URL**: https://lovable.dev/projects/640dda73-653b-4a84-901a-968f18de74c8
+You can **fork** this repository to modify and build upon it.
+Please give credit by linking back to [Govarthan30](https://github.com/YuvaneshV12). Thanks!
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🌐 Live Demo
 
-**Use Lovable**
+[Visit Live Site](https://your-deployment-url.com)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/640dda73-653b-4a84-901a-968f18de74c8) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🚀 Built With
 
-**Use your preferred IDE**
+This project was built using the following technologies:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+* **React.js**
+* **Node.js**
+* **Express.js**
+* **MongoDB**
+* **Chart.js / Recharts**
+* **CSS3**
+* **VS Code**
+* **Vercel / Netlify**
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## ✨ Features
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+* 📊 Real-time carbon emission data visualization
+* 🗺️ Region-wise breakdown and filters
+* 🔍 Data-driven insights and analytics
+* 📱 Fully responsive across devices
+* 🎨 Clean, modern UI with customizable themes
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🛠 Installation and Setup Instructions
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+1. **Clone the repository:**
 
-**Edit a file directly in GitHub**
+   ```bash
+   git clone https://github.com/YuvaneshV12/india-carbon-footprint-tracker.git
+   cd india-carbon-footprint-tracker
+   ```
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+2. **Install dependencies:**
 
-**Use GitHub Codespaces**
+   ```bash
+   npm install
+   ```
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+3. **Run the development server:**
 
-## What technologies are used for this project?
+   ```bash
+   npm start
+   ```
 
-This project is built with:
+4. **View in browser:**
+   Open [http://localhost:3000](http://localhost:3000)
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 🧑‍💻 Usage Instructions
 
-Simply open [Lovable](https://lovable.dev/projects/640dda73-653b-4a84-901a-968f18de74c8) and click on Share -> Publish.
+* Navigate to `/src/components/` to edit UI components
+* Customize data APIs, styles, and logic as per your region or dataset
+* Update `.env` if using environment variables for API keys or DB connection
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
+## 🙌 Show Your Support
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Give a ⭐ on GitHub if you found this project helpful or inspiring!
